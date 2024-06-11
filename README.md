@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a bug writer.
 <!--
-**SJTU-ZYH/SJTU-ZYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hang0610/hang0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=SJTU-ZYH&show_icons=true&theme=radical)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=hang0610&show_icons=true&theme=radical)
